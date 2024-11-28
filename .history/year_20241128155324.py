@@ -4,13 +4,12 @@ import pandas as pd
 df = pd.read_csv('info_vis_assignment.csv')
 
 # Ensure 'year' is converted to datetime format
-# Convert to datetime, handle errors gracefully
-df['year'] = pd.to_datetime(df['year'], errors='coerce')
+# df['year'] = pd.to_datetime(df['year'])
 
-# Save the dataset with the fixed format
-df.to_csv('info_vis_assignment.csv', index=False)
+# Save the dataset again
+# df.to_csv('ussr_countries_only_modified.csv', index=False)
 
-# Confirm the data type and unique values
+# Confirm the data type
 print("Data type of 'year' column after conversion:", df['year'].dtype)
 print("Unique values in 'year' column:")
 print(df['year'].unique())

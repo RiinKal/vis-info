@@ -14,3 +14,8 @@ test_small_subset.py
 test_small_subset.py
 impute_etc.py
 from_preview.py
+check.py
+merge.py
+aggregate_metrics.csv
+preprocessed_data.csv
+check_merged_data.py

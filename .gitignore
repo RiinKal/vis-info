@@ -22,3 +22,6 @@ check_merged_data.py
 check_missing.py
 aggregated_metrics.csv
 preprocessed_data.csv
+check_bmi.py
+categorize_sports.py
+from_preview.py

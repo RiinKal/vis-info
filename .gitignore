@@ -16,7 +16,6 @@ impute_etc.py
 from_preview.py
 check.py
 merge.py
-aggregate_metrics.csv
 preprocessed_data.csv
 check_merged_data.py
 check_missing.py
@@ -25,3 +24,4 @@ preprocessed_data.csv
 check_bmi.py
 categorize_sports.py
 from_preview.py
+unique_sports.py

@@ -971,7 +971,7 @@ year,region,sport,sport category,medal
 1984,Russia,Figure Skating,Ice Sports,
 1996,Armenia,Diving,Aquatics,
 2000,Armenia,Diving,Aquatics,
-2014,Russia,Snowboarding,Snowboarding,
+2014,Russia,Snowboarding,Winter Skiing Events,
 2014,Russia,Ski Jumping,Winter Skiing Events,
 1996,Azerbaijan,Athletics,Athletics & Multi-Discipline,
 1998,Belarus,Biathlon,Winter Skiing Events,
@@ -1487,7 +1487,7 @@ year,region,sport,sport category,medal
 1968,Russia,Swimming,Aquatics,Bronze
 2016,Estonia,Fencing,Miscellaneous & Art,
 2016,Estonia,Fencing,Miscellaneous & Art,
-2006,Russia,Snowboarding,Snowboarding,
+2006,Russia,Snowboarding,Winter Skiing Events,
 2012,Russia,Athletics,Athletics & Multi-Discipline,
 2012,Russia,Athletics,Athletics & Multi-Discipline,
 1980,Russia,Athletics,Athletics & Multi-Discipline,
@@ -2039,10 +2039,10 @@ year,region,sport,sport category,medal
 1952,Belarus,Fencing,Miscellaneous & Art,
 2012,Kazakhstan,Judo,Combat Sports,
 1992,Russia,Ice Hockey,Ice Sports,Gold
-2010,Russia,Snowboarding,Snowboarding,
-2014,Russia,Snowboarding,Snowboarding,
-2006,Russia,Snowboarding,Snowboarding,
-2010,Russia,Snowboarding,Snowboarding,
+2010,Russia,Snowboarding,Winter Skiing Events,
+2014,Russia,Snowboarding,Winter Skiing Events,
+2006,Russia,Snowboarding,Winter Skiing Events,
+2010,Russia,Snowboarding,Winter Skiing Events,
 2012,Georgia,Swimming,Aquatics,
 2016,Georgia,Wrestling,Combat Sports,Bronze
 1972,Russia,Basketball,Team Sports,Gold
@@ -3087,9 +3087,9 @@ year,region,sport,sport category,medal
 1952,Russia,Canoeing,Rowing & Canoeing,
 1952,Russia,Diving,Aquatics,
 1956,Russia,Diving,Aquatics,
-2010,Ukraine,Snowboarding,Snowboarding,
-2014,Ukraine,Snowboarding,Snowboarding,
-2014,Ukraine,Snowboarding,Snowboarding,
+2010,Ukraine,Snowboarding,Winter Skiing Events,
+2014,Ukraine,Snowboarding,Winter Skiing Events,
+2014,Ukraine,Snowboarding,Winter Skiing Events,
 1988,Ukraine,Sailing,Sailing & Water Sports,Bronze
 2016,Russia,Swimming,Aquatics,Bronze
 2016,Russia,Swimming,Aquatics,
@@ -3476,9 +3476,9 @@ year,region,sport,sport category,medal
 2008,Russia,Shooting,Shooting & Archery,
 2008,Belarus,Sailing,Sailing & Water Sports,
 2008,Russia,Swimming,Aquatics,
-2010,Russia,Snowboarding,Snowboarding,
-2014,Russia,Snowboarding,Snowboarding,
-2014,Russia,Snowboarding,Snowboarding,
+2010,Russia,Snowboarding,Winter Skiing Events,
+2014,Russia,Snowboarding,Winter Skiing Events,
+2014,Russia,Snowboarding,Winter Skiing Events,
 2006,Russia,Speed Skating,Ice Sports,
 2006,Russia,Speed Skating,Ice Sports,
 2006,Russia,Speed Skating,Ice Sports,
@@ -4932,7 +4932,7 @@ year,region,sport,sport category,medal
 1964,Russia,Rowing,Rowing & Canoeing,
 1964,Russia,Weightlifting,Miscellaneous & Art,Gold
 1996,Belarus,Cycling,Cycling,
-2006,Russia,Snowboarding,Snowboarding,
+2006,Russia,Snowboarding,Winter Skiing Events,
 1992,Russia,Athletics,Athletics & Multi-Discipline,
 2000,Russia,Athletics,Athletics & Multi-Discipline,
 2000,Russia,Athletics,Athletics & Multi-Discipline,
@@ -5902,9 +5902,9 @@ year,region,sport,sport category,medal
 2014,Russia,Figure Skating,Ice Sports,Bronze
 2014,Russia,Figure Skating,Ice Sports,Gold
 2008,Kazakhstan,Volleyball,Team Sports,
-2010,Russia,Snowboarding,Snowboarding,Silver
-2014,Russia,Snowboarding,Snowboarding,
-2014,Russia,Snowboarding,Snowboarding,
+2010,Russia,Snowboarding,Winter Skiing Events,Silver
+2014,Russia,Snowboarding,Winter Skiing Events,
+2014,Russia,Snowboarding,Winter Skiing Events,
 2008,Kazakhstan,Handball,Team Sports,
 2002,Kazakhstan,Speed Skating,Ice Sports,
 2008,Kazakhstan,Wrestling,Combat Sports,
@@ -7095,7 +7095,7 @@ year,region,sport,sport category,medal
 1956,Russia,Canoeing,Rowing & Canoeing,Silver
 1956,Russia,Canoeing,Rowing & Canoeing,Gold
 2006,Russia,Ice Hockey,Ice Sports,
-2014,Russia,Snowboarding,Snowboarding,
+2014,Russia,Snowboarding,Winter Skiing Events,
 2008,Russia,Judo,Combat Sports,
 2012,Russia,Canoeing,Rowing & Canoeing,
 2016,Russia,Canoeing,Rowing & Canoeing,
@@ -7851,8 +7851,8 @@ year,region,sport,sport category,medal
 2000,Belarus,Swimming,Aquatics,
 2000,Belarus,Swimming,Aquatics,
 2006,Kazakhstan,Ice Hockey,Ice Sports,
-2014,Russia,Snowboarding,Snowboarding,
-2014,Russia,Snowboarding,Snowboarding,
+2014,Russia,Snowboarding,Winter Skiing Events,
+2014,Russia,Snowboarding,Winter Skiing Events,
 2016,Ukraine,Athletics,Athletics & Multi-Discipline,
 2016,Russia,Synchronized Swimming,Aquatics,Gold
 2006,Kazakhstan,Ice Hockey,Ice Sports,
@@ -8090,7 +8090,7 @@ year,region,sport,sport category,medal
 1980,Russia,Swimming,Aquatics,Gold
 1980,Russia,Swimming,Aquatics,Gold
 1980,Russia,Swimming,Aquatics,Silver
-2014,Russia,Snowboarding,Snowboarding,
+2014,Russia,Snowboarding,Winter Skiing Events,
 2016,Russia,Swimming,Aquatics,
 2016,Russia,Swimming,Aquatics,
 2016,Russia,Swimming,Aquatics,
@@ -12782,7 +12782,7 @@ year,region,sport,sport category,medal
 2000,Russia,Diving,Aquatics,
 2000,Russia,Diving,Aquatics,
 2008,Estonia,Swimming,Aquatics,
-2014,Russia,Snowboarding,Snowboarding,Silver
+2014,Russia,Snowboarding,Winter Skiing Events,Silver
 1968,Russia,Cross Country Skiing,Winter Skiing Events,
 1968,Russia,Cross Country Skiing,Winter Skiing Events,
 1972,Russia,Cross Country Skiing,Winter Skiing Events,
@@ -13363,9 +13363,9 @@ year,region,sport,sport category,medal
 1996,Moldova,Wrestling,Combat Sports,
 2000,Belarus,Athletics,Athletics & Multi-Discipline,
 2000,Russia,Athletics,Athletics & Multi-Discipline,Silver
-2010,Ukraine,Snowboarding,Snowboarding,
-2014,Ukraine,Snowboarding,Snowboarding,
-2014,Ukraine,Snowboarding,Snowboarding,
+2010,Ukraine,Snowboarding,Winter Skiing Events,
+2014,Ukraine,Snowboarding,Winter Skiing Events,
+2014,Ukraine,Snowboarding,Winter Skiing Events,
 1994,Belarus,Freestyle Skiing,Winter Skiing Events,
 1964,Russia,Canoeing,Rowing & Canoeing,Bronze
 2004,Ukraine,Tennis,Racquet Sports,
@@ -13857,7 +13857,7 @@ year,region,sport,sport category,medal
 1996,Ukraine,Gymnastics,Gymnastics & Trampoline,
 1996,Ukraine,Gymnastics,Gymnastics & Trampoline,Silver
 1992,Russia,Athletics,Athletics & Multi-Discipline,
-2006,Russia,Snowboarding,Snowboarding,
+2006,Russia,Snowboarding,Winter Skiing Events,
 1996,Russia,Archery,Shooting & Archery,
 1996,Russia,Archery,Shooting & Archery,
 2012,Kazakhstan,Shooting,Shooting & Archery,
@@ -14466,7 +14466,7 @@ year,region,sport,sport category,medal
 1964,Russia,Fencing,Miscellaneous & Art,Silver
 2010,Russia,Ice Hockey,Ice Sports,
 2014,Russia,Ice Hockey,Ice Sports,
-2006,Russia,Snowboarding,Snowboarding,
+2006,Russia,Snowboarding,Winter Skiing Events,
 2000,Lithuania,Table Tennis,Racquet Sports,
 1992,Latvia,Bobsleigh,Ice Sports,
 1992,Latvia,Bobsleigh,Ice Sports,
@@ -15567,7 +15567,7 @@ year,region,sport,sport category,medal
 2008,Ukraine,Athletics,Athletics & Multi-Discipline,
 2012,Ukraine,Athletics,Athletics & Multi-Discipline,Bronze
 2016,Ukraine,Athletics,Athletics & Multi-Discipline,
-2006,Russia,Snowboarding,Snowboarding,
+2006,Russia,Snowboarding,Winter Skiing Events,
 2000,Russia,Canoeing,Rowing & Canoeing,
 2000,Russia,Canoeing,Rowing & Canoeing,
 2008,Russia,Canoeing,Rowing & Canoeing,
@@ -17615,12 +17615,12 @@ year,region,sport,sport category,medal
 2012,Uzbekistan,Judo,Combat Sports,Bronze
 2016,Uzbekistan,Judo,Combat Sports,Bronze
 2004,Belarus,Cycling,Cycling,
-2014,Russia,Snowboarding,Snowboarding,
-2014,Russia,Snowboarding,Snowboarding,
-2014,Russia,Snowboarding,Snowboarding,
+2014,Russia,Snowboarding,Winter Skiing Events,
+2014,Russia,Snowboarding,Winter Skiing Events,
+2014,Russia,Snowboarding,Winter Skiing Events,
 1988,Russia,Fencing,Miscellaneous & Art,
-2014,Russia,Snowboarding,Snowboarding,
-2014,Russia,Snowboarding,Snowboarding,
+2014,Russia,Snowboarding,Winter Skiing Events,
+2014,Russia,Snowboarding,Winter Skiing Events,
 2016,Belarus,Athletics,Athletics & Multi-Discipline,
 2008,Russia,Water Polo,Team Sports,
 2012,Russia,Water Polo,Team Sports,
@@ -18440,7 +18440,7 @@ year,region,sport,sport category,medal
 1992,Russia,Athletics,Athletics & Multi-Discipline,Gold
 2000,Russia,Athletics,Athletics & Multi-Discipline,Bronze
 2004,Uzbekistan,Canoeing,Rowing & Canoeing,
-2014,Russia,Snowboarding,Snowboarding,
+2014,Russia,Snowboarding,Winter Skiing Events,
 1994,Russia,Biathlon,Winter Skiing Events,Bronze
 1994,Russia,Biathlon,Winter Skiing Events,Gold
 1994,Russia,Biathlon,Winter Skiing Events,Silver
@@ -18650,7 +18650,7 @@ year,region,sport,sport category,medal
 1994,Russia,Short Track Speed Skating,Ice Sports,
 1998,Russia,Short Track Speed Skating,Ice Sports,
 1998,Russia,Short Track Speed Skating,Ice Sports,
-2002,Russia,Snowboarding,Snowboarding,
+2002,Russia,Snowboarding,Winter Skiing Events,
 1980,Latvia,Rowing,Rowing & Canoeing,Silver
 1912,Russia,Shooting,Shooting & Archery,
 1912,Russia,Shooting,Shooting & Archery,
@@ -19152,8 +19152,8 @@ year,region,sport,sport category,medal
 2012,Ukraine,Cycling,Cycling,
 1980,Georgia,Diving,Aquatics,Bronze
 2004,Uzbekistan,Swimming,Aquatics,
-2014,Kazakhstan,Snowboarding,Snowboarding,
-2014,Kazakhstan,Snowboarding,Snowboarding,
+2014,Kazakhstan,Snowboarding,Winter Skiing Events,
+2014,Kazakhstan,Snowboarding,Winter Skiing Events,
 1998,Ukraine,Freestyle Skiing,Winter Skiing Events,
 2002,Belarus,Freestyle Skiing,Winter Skiing Events,
 2006,Belarus,Freestyle Skiing,Winter Skiing Events,
@@ -19218,10 +19218,10 @@ year,region,sport,sport category,medal
 1988,Ukraine,Handball,Team Sports,Gold
 2000,Ukraine,Handball,Team Sports,Gold
 2004,Ukraine,Handball,Team Sports,Bronze
-2006,Russia,Snowboarding,Snowboarding,
-2010,Russia,Snowboarding,Snowboarding,
-2014,Russia,Snowboarding,Snowboarding,
-2014,Russia,Snowboarding,Snowboarding,
+2006,Russia,Snowboarding,Winter Skiing Events,
+2010,Russia,Snowboarding,Winter Skiing Events,
+2014,Russia,Snowboarding,Winter Skiing Events,
+2014,Russia,Snowboarding,Winter Skiing Events,
 2004,Russia,Equestrianism,Equestrianism,
 2012,Russia,Equestrianism,Equestrianism,
 2016,Ukraine,Sailing,Sailing & Water Sports,
@@ -20033,7 +20033,7 @@ year,region,sport,sport category,medal
 1980,Russia,Canoeing,Rowing & Canoeing,
 1994,Russia,Ice Hockey,Ice Sports,
 2004,Estonia,Rowing,Rowing & Canoeing,
-2006,Russia,Snowboarding,Snowboarding,
+2006,Russia,Snowboarding,Winter Skiing Events,
 2000,Russia,Swimming,Aquatics,
 2000,Russia,Swimming,Aquatics,
 2004,Latvia,Canoeing,Rowing & Canoeing,
@@ -20449,8 +20449,8 @@ year,region,sport,sport category,medal
 1988,Ukraine,Rowing,Rowing & Canoeing,
 1980,Russia,Hockey,Miscellaneous & Art,Bronze
 2008,Lithuania,Cycling,Cycling,
-2014,Russia,Snowboarding,Snowboarding,Gold
-2014,Russia,Snowboarding,Snowboarding,Gold
+2014,Russia,Snowboarding,Winter Skiing Events,Gold
+2014,Russia,Snowboarding,Winter Skiing Events,Gold
 1912,Russia,Modern Pentathlon,Athletics & Multi-Discipline,
 2000,Azerbaijan,Swimming,Aquatics,
 2000,Azerbaijan,Boxing,Combat Sports,
@@ -21273,9 +21273,9 @@ year,region,sport,sport category,medal
 2014,Ukraine,Cross Country Skiing,Winter Skiing Events,
 2014,Ukraine,Cross Country Skiing,Winter Skiing Events,
 2002,Ukraine,Ice Hockey,Ice Sports,
-2010,Russia,Snowboarding,Snowboarding,
-2014,Russia,Snowboarding,Snowboarding,Bronze
-2014,Russia,Snowboarding,Snowboarding,
+2010,Russia,Snowboarding,Winter Skiing Events,
+2014,Russia,Snowboarding,Winter Skiing Events,Bronze
+2014,Russia,Snowboarding,Winter Skiing Events,
 1980,Russia,Rowing,Rowing & Canoeing,
 2014,Lithuania,Alpine Skiing,Winter Skiing Events,
 2014,Lithuania,Alpine Skiing,Winter Skiing Events,
